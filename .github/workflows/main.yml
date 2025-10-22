@@ -1,4 +1,4 @@
-name: CI tests
+name: E2E tests banco-api
 
 #gatilhos
 on: 
