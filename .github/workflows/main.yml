@@ -17,6 +17,7 @@ jobs:
 
     #[acoes ou passos]
     steps:
+    
       #[projetos] (aplicações, projeto de teste, etc...)
       - name: Checkout do Repositório
         uses: actions/checkout@v4
